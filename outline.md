@@ -2,6 +2,7 @@ Job : - title - location - job type - description - published at - Vacancy - sal
 
 - apply job 
 - post job
+
 Blog : - title - description - created_at - category - tags - author
 
 - search
